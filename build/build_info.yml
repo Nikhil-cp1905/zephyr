@@ -1,0 +1,5 @@
+west:
+  command: /home/nikhil/zephyrproject/.env/bin/west build -p always -b nucleo_h7a3zi_q
+    zephyr/samples/basic/blinky/
+  topdir: /home/nikhil/zephyrproject
+  version: 1.3.0
